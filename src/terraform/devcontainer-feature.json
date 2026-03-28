@@ -1,0 +1,9 @@
+{
+    "id": "terraform-rocky",
+    "version": "1.0.0",
+    "name": "Terraform Rocky",
+    "documentationURL": "https://developer.hashicorp.com/terraform/docs",
+    "description": "Installs Terraform on Rocky Linux",
+    "options": {}
+    "installsAfter": []
+}
